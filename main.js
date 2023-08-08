@@ -58,8 +58,6 @@ var survey_self_name = {
   }
 };
 
-
-
 //練習試行
 var trial_test01 = {
   timeline:[
