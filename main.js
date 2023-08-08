@@ -1,7 +1,5 @@
 
-// var repo_site = "ex-1-1/";
-// var repo_site = "https://github.com/jymd1024/IAT_SE/blob/18c92053f9364098d1ebc9eec70def6029ef128e/ex-1-1/";
-var repo_site = "https://raw.githubusercontent.com/jymd1024/IAT_SE/18c92053f9364098d1ebc9eec70def6029ef128e/ex-1-1/";
+var repo_site = "https://jymd1024.github.io/IAT_SE/ex-1-1/";
 
 //教示文を読んで入力してもらう
 var iat_instruction_test = {
